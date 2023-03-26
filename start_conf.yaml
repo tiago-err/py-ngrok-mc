@@ -1,0 +1,10 @@
+ngrok:
+    auth-token: 
+minecraft:
+    max-mem: 4G
+    min-mem: 4G
+    jar-file: server.jar
+    port: 25565
+discord:
+    webhook: 
+    username: 

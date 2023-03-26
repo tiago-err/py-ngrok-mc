@@ -1,0 +1,4 @@
+pyngrok
+pyyaml
+requests
+subprocess
